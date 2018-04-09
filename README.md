@@ -1,12 +1,4 @@
 # Dados_repositorios_e_ferramentas
 Com este pequeno projeto pretendemos coletar repositórios de dados abertos, ferramentas e técnicas para trabalhar com análise de dados
-
-## Repositório de dados
-
-[http://dados.gov.br/](Dados abertos do Governo Federal)
-[http://www.cgu.gov.br/sobre/institucional/eventos/anos-anteriores/2017/dados-abertos](Dados abertos da Controladoria Geral da União]
-[http://apps.mprj.mp.br/sistema/mpmapas/home.html](MPRJ)
-
-## Ferramentas
-
-## Técnicas
+É uma iniciativa dos alunos da Pós Graduação em Ciências de Dados e Big Data da Puc Minas. Uma compilação do material gerado em um grupo
+de discussão que pretende-se que seja aberto e tenha contribuições para ajudar quem está iniciando, como o pessoal no início do curso.
