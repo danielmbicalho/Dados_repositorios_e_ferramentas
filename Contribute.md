@@ -11,4 +11,6 @@ Os aquivos são escritos em Markdown, para uma visão rápida de como trabalhar 
 
 [Literatura](Literatura.md): Livros, 
 
-[Midias](midias.md): Podcasts, Vídeos e mídias relacionadas ao assunto
+[Midias](Midias.md): Podcasts, Vídeos e mídias relacionadas ao assunto
+
+[Projetos](Projetos.md): Projetos relacionados a Ciência de Dados envolvendo, principalmente, mas não exclusivamente, dados governamentais
