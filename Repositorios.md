@@ -7,3 +7,5 @@
 [MPRJ](http://apps.mprj.mp.br/sistema/mpmapas/home.html)
 
 [Sistema IBGE de Recuperação Automática - SIDRA](https://sidra.ibge.gov.br/home/pimpfbr/brasil)
+
+[Open Data Inception - Site que reúne diversos portais de dados abertos pelo mundo](https://opendatainception.io/)
